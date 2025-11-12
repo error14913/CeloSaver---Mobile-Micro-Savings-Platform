@@ -1,0 +1,32 @@
+{
+  "name": "celosaver---mobile-micro-savings-platform",
+  "version": "1.0.0",
+  "description": "**CeloSaver** is a **DeFi smart contract** that allows users to create **personal savings goals** and manage their assets in a **decentralized** way on the **Celo blockchain**. Users can create goals, deposit CELO, track their progress, and withdraw funds anytime — completely self-custodied, transparent, and secure.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/error14913/CeloSaver---Mobile-Micro-Savings-Platform.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/error14913/CeloSaver---Mobile-Micro-Savings-Platform/issues"
+  },
+  "homepage": "https://github.com/error14913/CeloSaver---Mobile-Micro-Savings-Platform#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^6.1.0",
+    "hardhat": "^2.27.0"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.4.0",
+    "dotenv": "^17.2.3"
+  }
+}
